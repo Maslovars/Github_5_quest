@@ -1,2 +1,2 @@
-line 1
+LOCAL
 line 2
